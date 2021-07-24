@@ -1,0 +1,10 @@
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\obj\Debug\prj_ApoliceLucia.csprojAssemblyReference.cache
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\obj\Debug\prj_ApoliceLucia.FrmApolice.resources
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\obj\Debug\prj_ApoliceLucia.Properties.Resources.resources
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\obj\Debug\prj_ApoliceLucia.csproj.GenerateResource.cache
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\obj\Debug\prj_ApoliceLucia.csproj.CoreCompileInputs.cache
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\bin\Debug\prj_ApoliceLucia.exe.config
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\bin\Debug\prj_ApoliceLucia.exe
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\bin\Debug\prj_ApoliceLucia.pdb
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\obj\Debug\prj_ApoliceLucia.exe
+C:\Users\lhmvt\source\repos\prj_ApoliceLucia\obj\Debug\prj_ApoliceLucia.pdb
